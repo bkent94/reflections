@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+   I was able to scroll down both files line by line until I saw the correct spelling in one file but not the other
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I can see how I originally created my program and see what changes I ended up making. Thus I can be more aware of what I should start with when creating a new program
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    When choosing when to create a commit you can control how many changes should be made before the next commit. However if you don't create commits often enough you will have more trouble fixing mistakes by looking back at previous versions
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    It is easier to save multiple files in a single commit however if you go back to a previous commit then all of those files need to be changed back to their state during that commit
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can use the command git log to get the history of your commits and git diff to compare the commited files
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using version control would make me far more confident in making reckless changes because I know that if something goes wrong I can always change things back.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+	
+	How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	It can allow me to go back and see what steps I went through when developing my program. This would allow me to more easily learn from my past experiences
+	
+	What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	Manually choosing when to commit allows you to select key moments to save a file, but makes it possible that you might not save often enough
